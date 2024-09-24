@@ -23,8 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hani-faisal&show_icons=true&locale=en&layout=compact" alt="hani-faisal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hani-Bin-Faisal-Ahammad&" alt="Hani-Bin-Faisal-Ahammad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hani-faisal&show_icons=true&locale=en" alt="hani-faisal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en&layout=compact" alt="Hani-Bin-Faisal-Ahammad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hani-faisal&" alt="hani-faisal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en" alt="Hani-Bin-Faisal-Ahammad" /></p>
