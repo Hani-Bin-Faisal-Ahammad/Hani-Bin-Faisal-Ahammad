@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Hani Bin Faisal Ahammad</h1>
 <h3 align="center">I am new to the world of coding</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hani-faisal&label=Profile%20views&color=0e75b6&style=flat" alt="hani-faisal" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hani-Bin-Faisal-Ahammad/count.svg" />
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hani-faisal" alt="hani-faisal" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Ai and Machine Learning**
