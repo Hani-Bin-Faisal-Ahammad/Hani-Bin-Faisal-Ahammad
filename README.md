@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/Hani-Bin-Faisal-Ahammad/count.svg" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hani-faisal" alt="hani-faisal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hani-Bin-Faisal-Ahammad" alt="Hani-Bin-Faisal-Ahammad" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Ai and Machine Learning**
 
