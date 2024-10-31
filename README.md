@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en&layout=compact" alt="Hani-Bin-Faisal-Ahammad" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en" alt="Hani-Bin-Faisal-Ahammad" /></p>
+
+[Watch the Interactive Spider Animation]([https://your-portfolio-link.com/spider-animation](https://theinteractivespider.vercel.app/))
