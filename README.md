@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en" alt="Hani-Bin-Faisal-Ahammad" /></p>
 
-[Watch the Interactive Spider Animation]([https://theinteractivespider.vercel.app/])
+[Watch the Interactive Spider Animation](https://theinteractivespider.vercel.app/)
