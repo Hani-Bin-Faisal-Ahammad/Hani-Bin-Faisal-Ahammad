@@ -1,48 +1,75 @@
-<h1 align="center">Hi 👋, I'm Hani Bin Faisal Ahammad</h1>
-<h3 align="center">Aspiring Python Developer | Learning AI & Machine Learning</h3>
+<div align="center">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hani-Bin-Faisal-Ahammad/count.svg" />
-</p>
+Hani Bin Faisal Ahammad
+AI & BBA Student | Aspiring Python Developer
+</div>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hani-Bin-Faisal-Ahammad" alt="Hani-Bin-Faisal-Ahammad" />
-  </a> 
-</p>
+A passionate BBA student exploring the intersection of technology, business, and creativity. With a growing interest in AI, coding, and digital innovation, I aim to build impactful projects while balancing academics, personal growth, and future entrepreneurial goals.
 
-- 🌱 I’m currently learning **Python, AI, and Machine Learning**  
-- 📫 How to reach me: **hanibinfaisalahammad@gmail.com**  
+🌐 Connect with Me
+<div align="center">
+<a href="https://linkedin.com/in/hani-bin-faisal-ahammad-419814324" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/hani_bin_faisal" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://kaggle.com/hanibinfaisalahammad" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite" alt="Kaggle"/>
+</a>
+<a href="mailto:hanibinfaisalahammad@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hani-bin-faisal-ahammad-419814324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/hanibinfaisalahammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://instagram.com/hani_bin_faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+🛠️ My Tech Stack
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<br /><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+<br /><strong>TensorFlow</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+<br /><strong>PyTorch</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-Learn" />
+<br /><strong>Scikit-Learn</strong>
+</td>
+</tr>
+</table>
+</div>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
-</p>
+🚀 Featured Projects
+Portfolio Website: A personal digital portfolio built with a modern glass morphism design.
 
-<h3 align="left">Featured Projects:</h3>
-<ul>
-  <li><a href="https://hanibinfaisalahammad.vercel.app/">Portfolio Website</a> – Personal portfolio site</li>
-  <li><a href="https://github.com/Hani-Bin-Faisal-Ahammad/Telegram-Bot">Telegram Bot</a> – Python automation project</li>
-  <li><a href="https://github.com/Hani-Bin-Faisal-Ahammad/AI-Learning-Notebooks">AI Learning Notebooks</a> – AI & ML experiments</li>
-  <li><a href="https://theinteractivespider.vercel.app/">Interactive Spider Animation</a></li>
-</ul>
+Telegram Bot: An automation project developed in Python to interact with the Telegram API.
+
+AI Learning Notebooks: A collection of Jupyter notebooks documenting my experiments in AI & ML.
+
+Interactive Spider Animation: A fun web-based animation showcasing interactive design skills.
+
+<div align="center">
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hani-Bin-Faisal-Ahammad&" alt="Hani-Bin-Faisal-Ahammad Streak" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DHani-Bin-Faisal-Ahammad%26theme%3Ddarkhub%26no-frame%3Dtrue" alt="Hani-Bin-Faisal-Ahammad" />
+</a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hani-Bin-Faisal-Ahammad&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DHani-Bin-Faisal-Ahammad%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddark" alt="Top Languages" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHani-Bin-Faisal-Ahammad%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddark" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHani-Bin-Faisal-Ahammad%26theme%3Ddark" alt="Hani-Bin-Faisal-Ahammad Streak" />
+</p>
+
+</div>
