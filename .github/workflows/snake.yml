@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  # To Run this action automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          # GitHub username
+          github_user_name: Hani-Bin-Faisal-Ahammad
+          
+          # The output file for the animation
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist
+          # Only commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: update snake animation"
+            git push
+          fi
